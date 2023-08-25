@@ -1,0 +1,45 @@
+li.not-active{
+    background-color: rgb(95, 146, 161);
+}
+
+li.active{
+    background-color: rgb(6, 46, 58);
+}
+
+section{
+    padding-top: 100px;
+}
+
+h2{
+    color: rgb(22, 59, 90);
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  ul li {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  ul li img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+
+  .mail{
+    margin-left: 32px !important;
+  }
+  .insta{
+    margin-left: 25px !important;
+  }
+  .facebook{
+    margin-left: 25px !important;
+  }
+  .twitter{
+    margin-left: 48px !important;
+  }
+  .youtube{
+    margin-left: 32px !important;
+  }
