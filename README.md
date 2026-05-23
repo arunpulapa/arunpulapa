@@ -28,6 +28,7 @@ Hi! I'm **Arun Pulapa**, a passionate **Full-Stack Developer** dedicated to buil
 
 ### **Frontend Development**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,7 +95,7 @@ I'm always interested in connecting with fellow developers and exploring new opp
 ## 🏆 Recent Activity
 
 - 🔨 Working on portfolio projects and web applications
-- 📖 Learning advanced Angular patterns and best practices
+- 📖 Learning advanced Angular and React patterns
 - 🌟 Contributing to open-source repositories
 - 💬 Always open to discussions and collaborations
 
