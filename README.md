@@ -61,10 +61,11 @@ Hi! I'm **Arun Pulapa**, a passionate **Full-Stack Developer** dedicated to buil
 ### **MyPortfolio**
 A modern, responsive personal portfolio website built with **Angular**. Showcases projects, skills, and professional experience with a beautiful UI/UX design.
 
-- 🔗 [Repository](https://github.com/arunpulapa/arunpulapa)
+- 🔗 [Portfolio Website](https://pulapaarunkumar.netlify.app/)
+- 📦 [Repository](https://github.com/arunpulapa/arunpulapa)
 - ⚡ Built with Angular CLI
 - 📱 Fully responsive design
-- 🚀 Deployed on GitHub Pages
+- 🚀 Deployed on Netlify
 
 ---
 
@@ -84,8 +85,9 @@ I'm always interested in connecting with fellow developers and exploring new opp
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://pulapaarunkumar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulapa-arun-kumar-1a332b204/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunpulapa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunpulapa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunpulapa@example.com)
 
 </div>
