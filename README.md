@@ -1,24 +1,42 @@
-# MyPortfolio
+# Hi there 👋 I'm Arun Pulapa
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+Welcome to my GitHub profile! I'm a passionate developer focused on building scalable web applications and exploring modern technologies.
 
-## Development server
+## 🚀 About Me
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- 💻 Full-stack developer with experience in web development
+- 🎓 Constantly learning and improving my skills
+- 🔧 Proficient in Angular, JavaScript, and web technologies
+- 📚 Interested in open-source projects and collaboration
+- 🌟 Dedicated to writing clean, maintainable code
 
-## Build
+## 🛠️ Technologies & Tools
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+**Frontend:**
+- Angular
+- JavaScript / TypeScript
+- HTML5 & CSS3
+- Responsive Design
 
-## Deploy
- Open package.json and then, in script section add the following script.
+**Backend & Tools:**
+- Node.js
+- Version Control (Git)
+- npm / yarn
 
-"scripts": {
-    // ...
-    "deploy": "ng b --prod --base-href https://USERNAME.github.io/DEPOT_NAME/ && npx ngh --dir=dist/Project_Name"
-},
+## 📊 GitHub Stats
 
-And now, you can build and deploy to GitHub Pages with a single command: npm run deploy
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunpulapa&show_icons=true&theme=radical)
 
+## 🎯 Featured Projects
 
+- **MyPortfolio** - Personal portfolio project built with Angular
+- Check out my repositories for more projects and contributions
 
+## 📫 How to reach me
+
+- 🔗 GitHub: [@arunpulapa](https://github.com/arunpulapa)
+- 💬 Open to collaborations and discussions
+
+---
+
+⭐ If you find my work interesting, feel free to star repositories and connect with me!
